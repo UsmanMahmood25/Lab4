@@ -11,6 +11,6 @@
 
 ## Screenshots
 
-![Alt](ExerciseB.gif)
+![Alt](./ExerciseB.gif)
 
-![Alt](ExerciseC.gif)
+![Alt](./ExerciseC.gif)
