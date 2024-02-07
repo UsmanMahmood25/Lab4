@@ -13,4 +13,4 @@
 
 ![Alt](ExerciseB.gif)
 
-![Alt](ExcerciseC.gif)
+![Alt](ExerciseC.gif)
